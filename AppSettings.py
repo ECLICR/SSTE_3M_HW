@@ -8,7 +8,7 @@ KnownNetworks = [
     },
     {
         'SSID'     : 'BTECH-openspace-public',
-        'Password' : 'btech1234',
+        'Password' : '',
         'StaticIP' : False
     },
     {
@@ -18,7 +18,7 @@ KnownNetworks = [
     },
     {
         'SSID'     : 'Pidisvet',
-        'Password' : '12knedLiku',
+        'Password' : '',
         'StaticIP' : False
     },
 ]
